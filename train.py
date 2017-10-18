@@ -1,3 +1,4 @@
+#structure reference : Michael Nielsen's Repo
 import cPickle, gzip
 from numpy import *
 import argparse
