@@ -1,4 +1,4 @@
-# Fully-Connected-Network-without-using-DL-Libraries
+# Training a fully connected network from scratch using numpy
 
 Example for MNIST digit classification on CPU
 Supports the following features :
@@ -13,6 +13,29 @@ Supports the following features :
 
 
 References in the respective scripts
+## Synopsis
+
+Was written specifically to train for MNIST digit classification. The code is for CPU. 
+
+## Usage
+
+The training can be initiated through run.sh. Various hyperparameters can be set in that file like
+*Learning Rate
+*Number of hidden layers
+*Momentum
+*Sizes of all layers
+*Batch Size
+*Activation Function : tanh and sigmoid
+*Optimizer : Adam, NAG, SGD, Momentum
+*Learning Rate annealing 
+*Loss Function : Cross Entropy, MSE
+
+## Dependancies 
+
+*Numpy
+*cPickle
+*Scipy
+*Matplotlib
 
 
 
