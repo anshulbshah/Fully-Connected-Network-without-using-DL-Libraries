@@ -22,10 +22,10 @@ The training can be initiated through run.sh. Various hyperparameters can be set
 Data Augmentation ( Elastic Distortion is performed)
 ## Dependancies 
 
-*Numpy
-*cPickle
-*Scipy
-*Matplotlib
+* Numpy
+* cPickle
+* Scipy
+* Matplotlib
 
-
+Best Accuracy : 98.25%
 
