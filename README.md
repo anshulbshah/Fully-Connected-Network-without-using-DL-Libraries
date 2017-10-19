@@ -1,10 +1,6 @@
 # Training a fully connected network from scratch using numpy
 
-
-References in the respective scripts
-## Synopsis
-
-Was written specifically to train for MNIST digit classification. The code is for CPU. 
+Was written to train for MNIST digit classification. The code is for CPU. 
 
 ## Usage and Features
 
@@ -28,4 +24,5 @@ Data Augmentation ( Elastic Distortion is performed)
 * Matplotlib
 
 Best Accuracy : 98.25%
+References in the respective scripts
 
